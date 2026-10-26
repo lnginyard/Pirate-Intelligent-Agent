@@ -5,3 +5,4 @@
 oracleJdk-27.jdk/
 __pycache__/
 *.py[cod]
+.guides/
