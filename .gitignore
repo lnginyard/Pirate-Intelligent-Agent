@@ -1,0 +1,7 @@
+*.log
+
+# Local environments and generated files
+.venv/
+oracleJdk-27.jdk/
+__pycache__/
+*.py[cod]
