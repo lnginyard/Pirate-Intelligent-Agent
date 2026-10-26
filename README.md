@@ -8,7 +8,7 @@ The starter project provided the maze environment, the game rules, the state rep
 
 - `TreasureMaze.py`: Defines the maze, movement rules, rewards, valid actions, and game status.
 - `GameExperience.py`: Stores transition experiences and prepares replay batches for training.
-- `TreasureHuntGame_starterCode.ipynb`: Provides the notebook structure, model setup, training skeleton, and evaluation workflow.
+- `Lorenzo_Ginyard_TreasureHuntGame_startercode.ipynb`: Provides the notebook structure, model setup, training skeleton, and evaluation workflow.
 
 I completed and extended the intelligent-agent portion of the notebook. In particular, I implemented the training loop in `qtrain()`, including:
 
@@ -47,11 +47,11 @@ My responsibility to the organization is to produce maintainable, testable, and 
 
 ## Running the Project
 
-Install the dependencies listed in `requirements.txt`, open `TreasureHuntGame_starterCode.ipynb`, and run the notebook cells in order. The notebook trains the model, runs the completion check, and evaluates a final game from the starting position `(0, 0)`.
+Install the dependencies listed in `requirements.txt`, open `Lorenzo_Ginyard_TreasureHuntGame_startercode.ipynb`, and run the notebook cells in order. The notebook trains the model, runs the completion check, and evaluates a final game from the starting position `(0, 0)`.
 
 ## Repository Contents
 
-- `TreasureHuntGame_starterCode.ipynb`: Completed project notebook
+- `Lorenzo_Ginyard_TreasureHuntGame_startercode.ipynb`: Completed project notebook
 - `Ginyard_Lorenzo_TreasureHuntGame.html`: Exported notebook
 - `GameExperience.py`: Experience replay implementation
 - `TreasureMaze.py`: Maze environment implementation
